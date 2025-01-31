@@ -6,11 +6,11 @@ Welcome to the **Coffee Machine**! 🚀 This Python-based coffee machine simulat
 
 ## 📜 Features
 
-✅ **Order Coffee**: Choose from Espresso, Latte, or Cappuccino! 🥤
-✅ **Resource Management**: Check water, milk, and coffee levels! 📊
-✅ **Transaction System**: Insert coins to pay for your drink! 💰
-✅ **Replenish Resources**: Refill ingredients when they run low! 🔄
-✅ **Turn Off Machine**: Power down the coffee maker anytime! 🔴
+✅ **Order Coffee**: Choose from Espresso, Latte, or Cappuccino! 🥤     
+✅ **Resource Management**: Check water, milk, and coffee levels! 📊     
+✅ **Transaction System**: Insert coins to pay for your drink! 💰     
+✅ **Replenish Resources**: Refill ingredients when they run low! 🔄    
+✅ **Turn Off Machine**: Power down the coffee maker anytime! 🔴   
 
 ---
 
