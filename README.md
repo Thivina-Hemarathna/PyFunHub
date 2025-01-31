@@ -10,6 +10,7 @@ Welcome to **PyFunHub**! 🐍✨ This repository contains a collection of simple
 
 ## 📂 Project List  
 1️⃣ **🔢 Calculator** - Test your math! 🎲  
+2️⃣ 🎯 Number Guessing Game - Try your luck! 🔢
 
 
 ## 🚀 Getting Started  
