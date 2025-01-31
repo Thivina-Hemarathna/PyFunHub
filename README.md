@@ -12,6 +12,7 @@ Whether you're a beginner or an experienced developer, there's something for eve
 1️⃣ **🔢 Calculator** - Test your math! 🎲  
 2️⃣ 🎯 Number Guessing Game - Try your luck! 🔢  
 3️⃣ 👥 Who Has More Followers? - Guess the bigger star! 🌟
+4️⃣ ☕ Coffee Maker - Brew your favorite coffee! 🍩
 
 ## 🚀 Getting Started  
 Clone this repo and start coding right away! 💻  
