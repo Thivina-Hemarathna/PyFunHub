@@ -4,8 +4,7 @@ Welcome to **PyFunHub**! 🐍✨ This repository contains a collection of simple
 
 ## 🌟 Features  
 ✅ Beginner-friendly projects 🎈  
-✅ Well-structured code 🏗️  
-✅ Step-by-step explanations 📖  
+✅ Well-structured code 🏗️ 
 ✅ Open-source and community-driven 🤝  
 
 ## 📂 Project List  
