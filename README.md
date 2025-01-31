@@ -16,7 +16,7 @@ Welcome to **PyFunHub**! 🐍✨ This repository contains a collection of simple
 ## 🚀 Getting Started  
 Clone this repo and start coding right away! 💻  
 ```sh
-git clone https://github.com/your-username/PyFunHub.git
+git clone https://github.com/Thivina-Hemarathna/PyFunHub.git
 cd PyFunHub
 cd Project-Name
 python project.py
