@@ -11,7 +11,7 @@ Welcome to **PyFunHub**! 🐍✨ This repository contains a collection of simple
 ## 📂 Project List  
 1️⃣ **🔢 Calculator** - Test your math! 🎲  
 2️⃣ 🎯 Number Guessing Game - Try your luck! 🔢
-
+3️⃣ 👥 Who Has More Followers? - Guess the bigger star! 🌟
 
 ## 🚀 Getting Started  
 Clone this repo and start coding right away! 💻  
