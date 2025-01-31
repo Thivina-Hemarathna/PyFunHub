@@ -33,9 +33,9 @@ Welcome to the **Coffee Machine**! 🚀 This Python-based coffee machine simulat
    - `cappuccino` 🍵
    - `report` 📋 *(Check ingredients and money collected)*
    - `replenish` 🔄 *(Refill all resources)*
-   - `off` 🔴 *(Turn off the machine)*             
-3️⃣ **Insert coins** when prompted! (Quarters, Dimes, Nickels, Pennies) 🪙
-4️⃣ **Receive your coffee** & enjoy! 🎉
+   - `off` 🔴 *(Turn off the machine)*
+3️⃣ **Insert coins** when prompted! (Quarters, Dimes, Nickels, Pennies) 🪙                                          
+4️⃣ **Receive your coffee** & enjoy! 🎉                                                      
 
 ---
 
