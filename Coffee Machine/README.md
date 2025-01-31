@@ -51,6 +51,7 @@ Welcome to the **Coffee Machine**! 🚀 This Python-based coffee machine simulat
 ## 🛠 Technologies Used
 
 🖥 **Python** 🐍
+
 -`dictionaries` for key-value storing 🔐
 - `while` loops for continuous operation 🔄
 - `if-elif` statements for decision-making 🤖
