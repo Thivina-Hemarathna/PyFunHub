@@ -1,6 +1,7 @@
 # 🚀 PyFunHub - Simple Python Projects 🎯  
 
-Welcome to **PyFunHub**! 🐍✨ This repository contains a collection of simple yet fun Python projects to sharpen your coding skills and explore new concepts. Whether you're a beginner or an experienced developer, there's something for everyone! 🚀💡  
+Welcome to **PyFunHub**! 🐍✨ This repository contains a collection of simple yet fun Python projects to sharpen your coding skills and explore new concepts. 
+Whether you're a beginner or an experienced developer, there's something for everyone! 🚀💡  
 
 ## 🌟 Features  
 ✅ Beginner-friendly projects 🎈  
@@ -9,8 +10,8 @@ Welcome to **PyFunHub**! 🐍✨ This repository contains a collection of simple
 
 ## 📂 Project List  
 1️⃣ **🔢 Calculator** - Test your math! 🎲  
-2️⃣ **🎯 Number Guessing Game - Try your luck! 🔢
-3️⃣ **👥 Who Has More Followers? - Guess the bigger star! 🌟
+2️⃣ 🎯 Number Guessing Game - Try your luck! 🔢
+3️⃣ 👥 Who Has More Followers? - Guess the bigger star! 🌟
 
 ## 🚀 Getting Started  
 Clone this repo and start coding right away! 💻  
