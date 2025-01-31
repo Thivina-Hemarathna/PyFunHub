@@ -17,6 +17,7 @@ Clone this repo and start coding right away! 💻
 ```sh
 git clone https://github.com/your-username/PyFunHub.git
 cd PyFunHub
+cd Project-Name
 python project.py
 ```
 Make sure you have Python installed. 🐍  
