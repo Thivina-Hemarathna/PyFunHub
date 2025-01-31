@@ -61,7 +61,9 @@ Welcome to the **Coffee Machine**! 🚀 This Python-based coffee machine simulat
 ## 🎯 Future Enhancements
 
 🔹 Add a GUI interface 🎨
+
 🔹 Implement a database for sales tracking 📈
+
 🔹 Allow customization of coffee ingredients 🏗
 
 ---
