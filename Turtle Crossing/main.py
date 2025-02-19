@@ -33,6 +33,7 @@ while game_is_on:
     if player.finish():
         player.starting()
         car_manager.level()
+        scoreboard.levels()
 
 
 
