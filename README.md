@@ -32,5 +32,4 @@ We welcome contributions! Fork the repo, make changes, and submit a PR. 🚀
 This project is licensed under the MIT License. 📜  
 
 ---
-💡 **Have an idea for a new project? Submit an issue!** ✨  
 💙 Don't forget to **star ⭐ the repo** if you find it useful!  
