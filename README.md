@@ -9,10 +9,10 @@ Whether you're a beginner or an experienced developer, there's something for eve
 ✅ Open-source and community-driven 🤝  
 
 ## 📂 Project List  
-1️⃣ **🔢 Calculator** - Test your math! 🎲  
+1️⃣ 🔢 Calculator** - Test your math! 🎲  
 2️⃣ 🎯 Number Guessing Game - Try your luck! 🔢  
 3️⃣ 👥 Who Has More Followers? - Guess the bigger star! 🌟                          
-4️⃣ ☕ Coffee Maker - Brew your favorite coffee! 🍩
+4️⃣ ☕ Coffee Maker - Brew your favorite coffee! 🍩                                                                                                                
 5️⃣ 🐢 Turtle Crossing - Help the turtle cross the road! 🚗💨
 
 ## 🚀 Getting Started  
