@@ -29,7 +29,7 @@ The key components:
 1. Install Python 🐍 (if you haven't already).
 2. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/turtle-road-crossing.git
+   git clone https://github.com/Thivina-Hemarathna/PyFunHub/Turtle Crossing
    ```
 3. Run the game:
    ```sh
